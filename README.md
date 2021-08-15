@@ -1,7 +1,7 @@
 ## 확률분포 정리
 
 #### Discrete
-| Contents | colab |
+| Contents | Colab |
 |:------------|----|
 |1. Bernoulli Distribution|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ithingv/probabiliy_distribution/blob/main/discrete/Bernoulli_distribution.ipynb)|
 |2. Binomial Distribution|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ithingv/probabiliy_distribution/blob/main/discrete/Binomial_distribution.ipynb)|
@@ -12,8 +12,7 @@
 |7. Discrete uniform Distribution ||
 |8. Poisson Distribution ||
 
-#### Discrete
-| Distribution |
-|:------------:|
+#### Continous
+| Contents | Colab|
+|:------------:|-----|
 
-github/ithingv/probabiliy_distribution/blob/main/discrete/Binomial_distribution.ipynb
