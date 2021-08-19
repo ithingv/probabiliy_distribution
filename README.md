@@ -16,3 +16,8 @@
 | Contents | Colab|
 |:------------:|-----|
 
+
+#### Theory
+| Contents |
+|:------------:|
+| [Loss Function과 MLE의 관계](./theory/autoencoder.md)| 
