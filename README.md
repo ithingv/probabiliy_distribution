@@ -24,3 +24,5 @@
 | Contents |
 |:------------:|
 | [Loss Function과 MLE의 관계](./theory/autoencoder.md)| 
+| 로지스틱 회귀 모델 파라미터 추정]|()|
+
