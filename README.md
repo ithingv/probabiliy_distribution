@@ -19,7 +19,6 @@
 |2. Exponential distribution |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ithingv/probabiliy_distribution/blob/main/continous/Exponential_distribution.ipynb)|
 |3. Gamma Distribution |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ithingv/probabiliy_distribution/blob/main/continous/Gamma_distribution.ipynb)|
 
-
 #### Theory
 | Contents |
 |:------------:|
